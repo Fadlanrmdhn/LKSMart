@@ -1,0 +1,15 @@
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\bin\Debug\LKSMart.exe.config
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\bin\Debug\LKSMart.exe
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\bin\Debug\LKSMart.pdb
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\bin\Debug\Guna.UI2.dll
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.csproj.AssemblyReference.cache
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.Form1.resources
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.HalamanAdmin.resources
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.Properties.Resources.resources
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.csproj.GenerateResource.cache
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.csproj.CoreCompileInputs.cache
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.csproj.Up2Date
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.exe
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.pdb
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.exe.config
+C:\Users\Fadlan septian R\source\repos\LKSMart\LKSMart\LKSMart\obj\Debug\LKSMart.logActivity.resources
